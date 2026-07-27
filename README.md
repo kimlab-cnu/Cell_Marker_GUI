@@ -7,7 +7,7 @@ This repository contains the source code for ImapDB, an immune research GUI writ
 
 ### Components are tested on:
 -	Windows, macOS & Linux
--	Python 3.9 and above
+-	Python 3.9 to 3.12 (Python 3.13+ is currently not supported due to NumPy compatibility)
 -	PyQt5 5.11 and above
 -	Pandas 2.2.2
 -	Openpyxl 3.1.5
